@@ -5,7 +5,7 @@
 
 ## Grupo 1
 
-* [Página 1 - grupo 1](grupo-1/pagina-1-grupo-1.md)
+* [Página 1 - Grupo 1](grupo-1/pagina-1-grupo-1.md)
 * [Página 2 - Grupo 1](grupo-1/pagina-2-grupo-1.md)
 
 ## Grupo 2
