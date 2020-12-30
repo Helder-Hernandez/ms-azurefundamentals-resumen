@@ -6,7 +6,7 @@ description: Resumen de estudio para certificación AZ900 (Azure fundamentals ).
 
 ## AREAS A EVALUAR
 
-Los _aspectos a evaluar \(_📅 a la fecha de diciembre del 2020_\)_ en la certificación AZ 900 son:
+Los _aspectos a evaluar \(_📅 a la fecha de diciembre del 2020_\)_ en la certificación AZ 900 son 6
 
 <table>
   <thead>
